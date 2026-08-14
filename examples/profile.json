@@ -1,0 +1,57 @@
+{
+  "name": "Avery Morgan",
+  "headline": "Platform Engineer",
+  "location": "Remote",
+  "summary": "Platform engineer focused on dependable developer tooling, observable services, and clear operational documentation.",
+  "contact": [
+    {
+      "label": "Email",
+      "value": "avery@example.com",
+      "url": "mailto:avery@example.com"
+    },
+    {
+      "label": "Portfolio",
+      "value": "example.com/avery",
+      "url": "https://example.com/avery"
+    }
+  ],
+  "skills": {
+    "Languages": ["Python", "Java", "TypeScript"],
+    "Platforms": ["Kafka", "Kubernetes", "PostgreSQL"],
+    "Practices": ["Observability", "Incident review", "Automated testing"]
+  },
+  "experience": [
+    {
+      "role": "Platform Engineer",
+      "organization": "Northstar Systems",
+      "period": "2023 - Present",
+      "highlights": [
+        "Built repeatable service templates with health checks and deployment validation.",
+        "Introduced evidence-based runbooks for common operational failures."
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "organization": "Harbor Labs",
+      "period": "2020 - 2023",
+      "highlights": [
+        "Developed event-driven integrations with idempotent processing boundaries."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Service Reliability Lab",
+      "summary": "A local reference environment for retries, timeouts, metrics, and failure testing.",
+      "technologies": ["Python", "OpenTelemetry", "Docker"],
+      "url": "https://example.com/avery/reliability-lab"
+    }
+  ],
+  "education": [
+    {
+      "qualification": "BSc Computer Science",
+      "institution": "Example University",
+      "period": "2016 - 2020"
+    }
+  ]
+}
