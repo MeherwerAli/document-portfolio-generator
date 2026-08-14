@@ -40,6 +40,8 @@ avery-morgan-portfolio.docx
 avery-morgan-portfolio.pdf
 ```
 
+Versioned GitHub Releases provide a wheel, source distribution, and SHA-256 checksums. Download a wheel from the [Releases page](https://github.com/MeherwerAli/document-portfolio-generator/releases), then install it with `python -m pip install ./document_portfolio_generator-<version>-py3-none-any.whl`.
+
 Generate selected formats with `--formats markdown pdf`.
 
 ## Input model
